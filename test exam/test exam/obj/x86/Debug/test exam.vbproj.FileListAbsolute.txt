@@ -1,0 +1,23 @@
+E:\IT SMTR 5\project\test exam\test exam\bin\Debug\test exam.exe
+E:\IT SMTR 5\project\test exam\test exam\bin\Debug\test exam.pdb
+E:\IT SMTR 5\project\test exam\test exam\bin\Debug\test exam.xml
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test_exam.Resources.resources
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test exam.vbproj.GenerateResource.Cache
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test exam.exe
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test exam.xml
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test exam.pdb
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test_exam.Form2.resources
+E:\IT SMTR 5\project\test exam\test exam\obj\x86\Debug\test_exam.Form1.resources
+F:\test exam\test exam\obj\x86\Debug\test exam.exe
+F:\test exam\test exam\obj\x86\Debug\test exam.xml
+F:\test exam\test exam\obj\x86\Debug\test exam.pdb
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test exam.exe
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test exam.xml
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test exam.pdb
+C:\Users\Alpha\Downloads\test exam\test exam\bin\Debug\test exam.exe
+C:\Users\Alpha\Downloads\test exam\test exam\bin\Debug\test exam.pdb
+C:\Users\Alpha\Downloads\test exam\test exam\bin\Debug\test exam.xml
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test_exam.Form1.resources
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test_exam.Form2.resources
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test_exam.Resources.resources
+C:\Users\Alpha\Downloads\test exam\test exam\obj\x86\Debug\test exam.vbproj.GenerateResource.Cache

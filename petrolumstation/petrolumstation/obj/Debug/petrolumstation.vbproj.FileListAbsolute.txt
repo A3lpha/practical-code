@@ -1,0 +1,76 @@
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\bin\Debug\petrolumstation.pdb
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\bin\Debug\petrolumstation.xml
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.form_MDI.resources
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.loging_form.resources
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.exe
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.xml
+c:\users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form2.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.chang_password.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Employee_form.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.User_form.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.attendence_form.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.employee_form2.resources
+C:\Users\hp\documents\visual studio 2012\Projects\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Customer_sales.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe.config
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.exe
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.xml
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.pdb
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\bin\Debug\petrolumstation.pdb
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\bin\Debug\petrolumstation.xml
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.attendence_form.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.chang_password.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Customer_sales.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Employee_form.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.employee_form2.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.form_MDI.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.loging_form.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Resources.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form2.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.User_form.resources
+C:\Users\HP\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbproj.GenerateResource.Cache
+D:\c\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe.config
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.exe
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.xml
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.pdb
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbprojResolveAssemblyReference.cache
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.attendence_form.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.chang_password.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Customer_sales.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Employee_form.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.employee_form2.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.form_MDI.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.loging_form.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Resources.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form2.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.User_form.resources
+D:\c\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbproj.GenerateResource.Cache
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe.config
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.exe
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.xml
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.pdb
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbprojResolveAssemblyReference.cache
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.attendence_form.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.chang_password.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Customer_sales.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Employee_form.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.employee_form2.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.form_MDI.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.loging_form.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Resources.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.Product_form2.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.User_form.resources
+C:\Users\cadnaan al khair\Desktop\petrolumstation\petrolumstation\obj\Debug\petrolumstation.vbproj.GenerateResource.Cache
+F:\practical code\petrolumstation\petrolumstation\bin\Debug\petrolumstation.exe.config
+F:\practical code\petrolumstation\petrolumstation\obj\Debug\petrolumstation.exe
+F:\practical code\petrolumstation\petrolumstation\obj\Debug\petrolumstation.xml
+F:\practical code\petrolumstation\petrolumstation\obj\Debug\petrolumstation.pdb
